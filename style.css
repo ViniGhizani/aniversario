@@ -1,0 +1,101 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #d86293;
+}
+
+.title {
+  color: #f5d0de;
+  font-size: 80px;
+  text-align: center;
+  font-weight: 900;
+}
+.title-2 {
+  color: #f5d0de;
+  font-size: 70px;
+  text-align: center;
+  font-weight: 900;
+}
+
+.contagem {
+  text-align: center;
+  color: #f5d0de;
+}
+
+.foto {
+  text-align: center;
+  padding-top: 10px;
+}
+.foto-amor {
+  width: 300px;
+  border: #f5d0de solid 5px;
+}
+
+.u {
+  font-size: 1px;
+}
+.d {
+  font-size: 2px;
+}
+.t {
+  font-size: 3px;
+}
+.q {
+  font-size: 4px;
+}
+.c {
+  font-size: 5px;
+}
+.s {
+  font-size: 6px;
+}
+.se {
+  font-size: 7px;
+}
+.o {
+  font-size: 8px;
+}
+.n {
+  font-size: 9px;
+}
+.de {
+  font-size: 10px;
+}
+.uu {
+  font-size: 11px;
+}
+.dd {
+  font-size: 12px;
+}
+.tt {
+  font-size: 13px;
+}
+.qq {
+  font-size: 14px;
+}
+.cc {
+  font-size: 15px;
+}
+.ss {
+  font-size: 16px;
+}
+.sese {
+  font-size: 17px;
+}
+.oo {
+  font-size: 18px;
+}
+.nn {
+  font-size: 19px;
+}
+.v {
+  font-size: 20px;
+}
+
+canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  position: fixed;
+  bottom: 1px;
+}
